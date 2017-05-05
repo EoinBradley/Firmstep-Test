@@ -1,0 +1,76 @@
+#main{
+	width: 1000px;
+	margin: 0 auto;
+}
+
+h1#title{
+	width: 100%;
+	text-align: center;
+	font-size:	2.0em;
+	line-height: 0;
+}
+
+#new-customer{
+	width: 490px;
+	float: left;
+	border: 1px solid #d3dcde;
+	border-radius: 5px;
+	padding: 0px;
+	margin: 0px;
+}
+
+#queue{
+	width: 490px;
+	float: right;
+	border: 1px solid #d3dcde;
+	border-radius: 5px;
+	padding: 0px;
+	margin: 0px;
+}
+
+h2.heading{
+	font-size: 1.2em;
+	margin: 0px;
+	padding: 5px 10px;
+	background-color: #ECF0F1;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	border-bottom: 1px solid #d3dcde;
+}
+
+.content{
+	padding: 10px;
+}
+
+.content h3{
+	padding: 0px;
+	margin: 0px;
+	font-size: 0.9em;
+}
+
+.input{
+	width: 100%;
+	padding: 5px;
+	margin-bottom: 10px;
+	box-sizing: border-box;
+	border-radius: 4px;
+}
+
+#submit-btn{
+	padding: 5px 10px;
+	border-radius: 4px;
+	background-color: blue;
+	color: white;
+}
+
+#bold{
+	font-weight: bold;
+}
+
+table{
+	border-collapse: collapse;
+}
+
+.queue-item{
+	border-top: 1px solid #d3dcde;
+}
